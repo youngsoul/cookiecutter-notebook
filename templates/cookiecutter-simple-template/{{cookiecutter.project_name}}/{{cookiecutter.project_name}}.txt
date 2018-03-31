@@ -1,0 +1,8 @@
+Simple Template Project:
+This project will demonstrate how to create a simple file based template with simple
+configuration file substitutions.
+
+Project: {{cookiecutter.project_name}}
+
+Creator: {{cookiecutter.creator}}
+
