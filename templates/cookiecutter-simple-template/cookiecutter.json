@@ -1,5 +1,5 @@
 {
   "project_name":"Simple Template",
   "creator": "Your Name Here",
-  "favorite_language": "python"
+  "favorite_language": ["python", "java", "javascript", "ruby"]
 }
